@@ -97,18 +97,29 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.header {
+  height: 250px;
+  width: 375px;
+  margin: 0;
+  background-color: #c4c4c4;
+}
 
+.header h1 {
+  font-family: 'Russo One', sans-serif;
+  font-size: 32px;
+  color: #fff;
+  justify-content: center;
+  margin-left: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
+.header h2 {
+  font-family: 'Iceland', cursive;
+  font-size: 22px;
+  color: #fff;
+  justify-content: center;
+  margin-top: -50px;
+  margin-left: 10px;
+}
 
 
 

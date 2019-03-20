@@ -97,76 +97,31 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-/* header css */
 .header {
-  height: 100px;
-  width: 100%;
-  background-color: #6A2972;
+  height: 250px;
+  width: 375px;
+  margin: 0;
+  background-color: #c4c4c4;
 }
 
 .header h1 {
   font-family: 'Russo One', sans-serif;
   font-size: 32px;
+  color: #fff;
   justify-content: center;
   margin-left: 10px;
-  color: #fff;
-
 }
 
 .header h2 {
   font-family: 'Iceland', cursive;
   font-size: 22px;
+  color: #fff;
   justify-content: center;
   margin-top: -50px;
   margin-left: 10px;
-  color: #fff;
 }
 
-/*Background coloring*/
 
-body {
-  background-color: Black;
-}
-
-/*Toolbar*/
-
-.toolBar {
-  width: 100%;
-  height: 175px;
-  background-color: #734F93;
-  display: flex;
-  justify-content: center;
-}
-
-i {
-  margin: 60px 10px 0;
-  vertical-align: middle;
-}
-
-/* date tab css */
-
-.date_tab {
-  height: 350px;
-  width: 100%;
-  margin-top: -10px;
-  background-image: linear-gradient(#6A2972, #297FBC);
-}
-
-.date_tab h1 {
-  font-family: 'Russo One', sans-serif;
-  font-size: 32px;
-  color: #fff;
-  justify-content: center;
-  margin-left: 10px;
-  margin-top: 10px;
-}
-
-.date_tab ul {
-  font-family: 'Iceland', cursive;
-  font-size: 18px;
-  color: #fff;
-  margin: 0px 10px 0;
-}
 
 
 /* ==========================================================================
